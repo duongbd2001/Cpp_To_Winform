@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform_GreedyArrangement\bin\Debug\netcoreapp3.1\CppToWinform_GreedyArrangement.exe
+C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform_GreedyArrangement\bin\Debug\netcoreapp3.1\CppToWinform_GreedyArrangement.deps.json
+C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform_GreedyArrangement\bin\Debug\netcoreapp3.1\CppToWinform_GreedyArrangement.runtimeconfig.json
+C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform_GreedyArrangement\bin\Debug\netcoreapp3.1\CppToWinform_GreedyArrangement.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform_GreedyArrangement\bin\Debug\netcoreapp3.1\CppToWinform_GreedyArrangement.dll
+C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform_GreedyArrangement\bin\Debug\netcoreapp3.1\CppToWinform_GreedyArrangement.pdb
+C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform_GreedyArrangement\obj\Debug\netcoreapp3.1\CppToWinform_GreedyArrangement.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform_GreedyArrangement\obj\Debug\netcoreapp3.1\CppToWinform_GreedyArrangement.Form1.resources
+C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform_GreedyArrangement\obj\Debug\netcoreapp3.1\CppToWinform_GreedyArrangement.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform_GreedyArrangement\obj\Debug\netcoreapp3.1\CppToWinform_GreedyArrangement.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform_GreedyArrangement\obj\Debug\netcoreapp3.1\CppToWinform_GreedyArrangement.AssemblyInfo.cs
+C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform_GreedyArrangement\obj\Debug\netcoreapp3.1\CppToWinform_GreedyArrangement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform_GreedyArrangement\obj\Debug\netcoreapp3.1\CppToWinform_GreedyArrangement.dll
+C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform_GreedyArrangement\obj\Debug\netcoreapp3.1\CppToWinform_GreedyArrangement.pdb
+C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform_GreedyArrangement\obj\Debug\netcoreapp3.1\CppToWinform_GreedyArrangement.genruntimeconfig.cache
