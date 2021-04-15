@@ -1,6 +1,0 @@
-C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform_ChangeMoney\obj\Debug\netcoreapp3.1\CppToWinform_ChangeMoney.csprojAssemblyReference.cache
-C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform_ChangeMoney\obj\Debug\netcoreapp3.1\CppToWinform_ChangeMoney.Form1.resources
-C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform_ChangeMoney\obj\Debug\netcoreapp3.1\CppToWinform_ChangeMoney.csproj.GenerateResource.cache
-C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform_ChangeMoney\obj\Debug\netcoreapp3.1\CppToWinform_ChangeMoney.AssemblyInfoInputs.cache
-C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform_ChangeMoney\obj\Debug\netcoreapp3.1\CppToWinform_ChangeMoney.AssemblyInfo.cs
-C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform_ChangeMoney\obj\Debug\netcoreapp3.1\CppToWinform_ChangeMoney.csproj.CoreCompileInputs.cache
