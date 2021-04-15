@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform\ChangeMoneyCppToWinform\bin\Debug\netcoreapp3.1\ChangeMoneyCppToWinform.exe
+C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform\ChangeMoneyCppToWinform\bin\Debug\netcoreapp3.1\ChangeMoneyCppToWinform.deps.json
+C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform\ChangeMoneyCppToWinform\bin\Debug\netcoreapp3.1\ChangeMoneyCppToWinform.runtimeconfig.json
+C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform\ChangeMoneyCppToWinform\bin\Debug\netcoreapp3.1\ChangeMoneyCppToWinform.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform\ChangeMoneyCppToWinform\bin\Debug\netcoreapp3.1\ChangeMoneyCppToWinform.dll
+C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform\ChangeMoneyCppToWinform\bin\Debug\netcoreapp3.1\ChangeMoneyCppToWinform.pdb
+C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform\ChangeMoneyCppToWinform\obj\Debug\netcoreapp3.1\ChangeMoneyCppToWinform.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform\ChangeMoneyCppToWinform\obj\Debug\netcoreapp3.1\ChangeMoneyCppToWinform.Form1.resources
+C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform\ChangeMoneyCppToWinform\obj\Debug\netcoreapp3.1\ChangeMoneyCppToWinform.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform\ChangeMoneyCppToWinform\obj\Debug\netcoreapp3.1\ChangeMoneyCppToWinform.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform\ChangeMoneyCppToWinform\obj\Debug\netcoreapp3.1\ChangeMoneyCppToWinform.AssemblyInfo.cs
+C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform\ChangeMoneyCppToWinform\obj\Debug\netcoreapp3.1\ChangeMoneyCppToWinform.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform\ChangeMoneyCppToWinform\obj\Debug\netcoreapp3.1\ChangeMoneyCppToWinform.dll
+C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform\ChangeMoneyCppToWinform\obj\Debug\netcoreapp3.1\ChangeMoneyCppToWinform.pdb
+C:\Users\Admin\source\repos\WinformsBasic\WinformsBasicProgramming\CppToWinform\ChangeMoneyCppToWinform\obj\Debug\netcoreapp3.1\ChangeMoneyCppToWinform.genruntimeconfig.cache
