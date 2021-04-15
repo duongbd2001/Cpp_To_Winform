@@ -9,7 +9,7 @@ namespace CppToWinform_GreedyArrangement
     {
 
         #region Hàm sắp xếp mảng bằng Quick Sort :(((
-        public static void Quick_Sort(string[] arr, int left, int right)
+        public static void Quick_Sort(int[] arr, int left, int right)
         {
             if (left < right)
             {
@@ -27,18 +27,18 @@ namespace CppToWinform_GreedyArrangement
 
         }
 
-        public static int Partition(string[] arr, int left, int right)
+        public static int Partition(int[] arr, int left, int right)
         {
-            int pivot = int.Parse(arr[left]);
+            int pivot = arr[left];
             while (true)
             {
 
-                while (int.Parse(arr[left]) < pivot)
+                while (arr[left] < pivot)
                 {
                     left++;
                 }
 
-                while (int.Parse(arr[right]) > pivot)
+                while (arr[right] > pivot)
                 {
                     right--;
                 }
@@ -47,9 +47,9 @@ namespace CppToWinform_GreedyArrangement
                 {
                     if (arr[left] == arr[right]) return right;
 
-                    int temp = int.Parse(arr[left]);
+                    int temp = arr[left];
                     arr[left] = arr[right];
-                    arr[right] = temp.ToString();
+                    arr[right] = temp;
 
 
                 }
@@ -60,7 +60,7 @@ namespace CppToWinform_GreedyArrangement
             }
         }
         #endregion
-        public  int GreddyArray(string[] a,string[] b)
+        public  int GreddyArray(int[] a,int[] b)
         {
             //Console.OutputEncoding = Encoding.UTF8;
             int n = a.Length;

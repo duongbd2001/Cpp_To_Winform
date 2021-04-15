@@ -19,10 +19,10 @@ namespace CppToWinform_GreedyArrangement
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int[] a = new int[];
-            int[] a = Convert.ToInt32(txbValueArray1.Text.Split(','));
-            String b = txbValueArray2.Text;
-            a.Split(',');
+            string[] A = txbValueArray1.Text.Split(',');
+            int[] a = Array.ConvertAll(A, s => int.Parse(s));
+            string[] B = txbValueArray1.Text.Split(',');
+            int[] b = Array.ConvertAll(B, s => int.Parse(s));
             GreedyArrangement greedyArrangement = new GreedyArrangement();
             if (greedyArrangement.GreddyArray(a,b) == a.Length)
             {
@@ -30,7 +30,7 @@ namespace CppToWinform_GreedyArrangement
             }
             else
             {
-                MessageBox.Show("Mảng không có thể sắp xếp bằng cách đảo ngược");
+                MessageBox.Show("Mảng không thể sắp xếp bằng cách đảo ngược");
             }
         }
     }
