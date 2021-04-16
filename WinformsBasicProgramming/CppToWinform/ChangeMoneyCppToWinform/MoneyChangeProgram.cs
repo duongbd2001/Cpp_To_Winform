@@ -10,31 +10,24 @@ namespace ChangeMoneyCppToWinform
 {
     class MoneyChangeProgram
     {
-        public int moneyChange(int n, int[] a)
+        public void moneyChange(int n, int[] a)
         {
-            int m = 100;
-            int[] b = new int[m];
+            List<string> b = new List<string>();           //mảng b là mảng gồm những mệnh giá đã đổi được, được in ra ở textBox3
             int check = 0, j = 0;
-            for (int i = 9; i >= 0; i--)
+            for (int i = 0; i < 10; i++)    //vòng lặp đếm tổng số tờ tiền đổi được
             {
                 while (a[i] <= n)
                 {
-                    n = n - a[i];
-                    b[j] = a[i];
-                    j++;
-                    check++;
+                    n = n - a[i]; check++;
+                    b.Add(a[i].ToString());
                 }
             }
-            for (int i = 0; i < m; i++)
-            {
-                if (b[i] == 0)
-                {
-                    m--;
-                    i = i - 1;
-                }
-            }
+            string[] B = b.Select(x => x.ToString()).ToArray();         //convert mảng b sang dạng string
+            string separator = ", ";
+            Form1 f = new Form1();
+            f.txbValue3.Text = string.Join(separator, B);
             MessageBox.Show("Đổi được "+check.ToString()+" tờ tiền.");
-            return b;
+            MessageBox.Show(f.txbValue3.Text, "Mệnh giá đổi được: ");
         }
     }
 }

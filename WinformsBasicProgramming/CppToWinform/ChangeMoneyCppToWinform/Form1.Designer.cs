@@ -78,7 +78,7 @@
             this.txbValueMoney2.Name = "txbValueMoney2";
             this.txbValueMoney2.Size = new System.Drawing.Size(192, 23);
             this.txbValueMoney2.TabIndex = 4;
-            this.txbValueMoney2.Text = "1, 2, 5, 10, 20, 50, 100, 200, 500, 1000";
+            this.txbValueMoney2.Text = " 1000, 500, 200, 100, 50, 20, 10, 5, 2, 1";
             // 
             // lbText3
             // 
@@ -124,7 +124,7 @@
         private System.Windows.Forms.Label lb2Text;
         private System.Windows.Forms.TextBox txbValueMoney2;
         private System.Windows.Forms.Label lbText3;
-        private System.Windows.Forms.TextBox txbValue3;
+        public System.Windows.Forms.TextBox txbValue3;
     }
 }
 
